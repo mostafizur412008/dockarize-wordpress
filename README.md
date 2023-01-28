@@ -1,0 +1,1 @@
+# dockarize-wordpress
